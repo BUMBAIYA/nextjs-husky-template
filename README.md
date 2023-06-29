@@ -41,6 +41,14 @@ Clone the repo
 git clone https://github.com/BUMBAIYA/nextjs-husky-template
 ```
 
+Important: Install dependencies before changing files.
+
+Run this command in project root folder
+
+```bash
+npm install
+```
+
 Important: Edit the name in `package.json` file as your project name
 
 Delete the `.git` folder from the repo Note: Enable show hidden folder to show `.git` folder on windows
