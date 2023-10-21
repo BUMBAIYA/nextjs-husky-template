@@ -27,7 +27,7 @@ Important: Install dependencies before changing files.
 Run this command in project root folder
 
 ```bash
-npm install
+yarn
 ```
 
 ### Step 2 - Create new git repo
